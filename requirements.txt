@@ -1,7 +1,5 @@
-tensorflow
-pandas
-matplotlib
-scikit-learn
-tensorboard
 streamlit
+pandas
+scikit-learn
+matplotlib
 altair
